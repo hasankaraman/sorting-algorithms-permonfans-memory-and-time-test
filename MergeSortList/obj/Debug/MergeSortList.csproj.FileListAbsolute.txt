@@ -1,0 +1,7 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\bin\Debug\MergeSortList.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\bin\Debug\MergeSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\bin\Debug\MergeSortList.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\obj\Debug\MergeSortList.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\obj\Debug\MergeSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\obj\Debug\MergeSortList.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\MergeSortList\obj\Debug\MergeSortList.csprojAssemblyReference.cache

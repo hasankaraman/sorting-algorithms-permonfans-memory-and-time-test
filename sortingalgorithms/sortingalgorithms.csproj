@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0705C5A6-AB4F-4305-8819-075BD8E121D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>sortingalgorithms</RootNamespace>
+    <AssemblyName>sortingalgorithms</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BubbleSortArray\BubbleSortArray.csproj">
+      <Project>{d2eafe07-494f-4ac5-9250-eabd83445bf8}</Project>
+      <Name>BubbleSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BubbleSortList\BubbleSortList.csproj">
+      <Project>{4a076da8-18d2-44f6-839f-583d083892cd}</Project>
+      <Name>BubbleSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CountingSortArray\CountingSortArray.csproj">
+      <Project>{a7242c0b-10ba-49ce-b7ae-9d44191b827e}</Project>
+      <Name>CountingSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CountingSortList\CountingSortList.csproj">
+      <Project>{6a8a5f07-75a1-46f4-9569-3e1d2461d739}</Project>
+      <Name>CountingSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HeapSortArray\HeapSortArray.csproj">
+      <Project>{6c268b21-6a1d-429c-a29e-354583a7406c}</Project>
+      <Name>HeapSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HeapSortList\HeapSortList.csproj">
+      <Project>{8419e7a1-b038-477f-8bd6-0c77a9ae5230}</Project>
+      <Name>HeapSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InsertionSortList\InsertionSortList.csproj">
+      <Project>{99065ddf-3ab8-48c7-914d-d3eaeded3e51}</Project>
+      <Name>InsertionSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MergeSortList\MergeSortList.csproj">
+      <Project>{95fac976-2ddc-40c1-b4a1-20bb01e21911}</Project>
+      <Name>MergeSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MergeSort\MergeSortArray.csproj">
+      <Project>{42a81028-8ae6-4554-9862-556ffbf23616}</Project>
+      <Name>MergeSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuickSortArray\QuickSortArray.csproj">
+      <Project>{daa7c0c4-2372-4ea9-832a-78e3acfacede}</Project>
+      <Name>QuickSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuickSortList\QuickSortList.csproj">
+      <Project>{fc453581-3f87-4858-9cf1-5ae1d7233786}</Project>
+      <Name>QuickSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RadixSortArray\RadixSortArray.csproj">
+      <Project>{90b6ac7f-85b5-4494-bb70-bebd98782903}</Project>
+      <Name>RadixSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RadixSortList\RadixSortList.csproj">
+      <Project>{f3de9c62-1c34-44d8-82bd-0a48c9b9892f}</Project>
+      <Name>RadixSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelectionSortList\SelectionSortList.csproj">
+      <Project>{1b518044-5c02-4cd7-bd7c-070b64d085e4}</Project>
+      <Name>SelectionSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelectionSort\SelectionSortArray.csproj">
+      <Project>{cdb005cc-6b10-4a33-aef5-36725f16c152}</Project>
+      <Name>SelectionSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShakerSortArray\ShakerSortArray.csproj">
+      <Project>{900c5b11-59b2-4db3-89d5-e1c9df631486}</Project>
+      <Name>ShakerSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShakerSortList\ShakerSortList.csproj">
+      <Project>{8aa3ce26-3a36-4273-af08-d37ea3827144}</Project>
+      <Name>ShakerSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShellSortArray\ShellSortArray.csproj">
+      <Project>{229bfcfe-e5de-42da-b093-000dbc6a2dbe}</Project>
+      <Name>ShellSortArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShellSortList\ShellSortList.csproj">
+      <Project>{c929b9b9-04ae-47bc-affd-84763670733d}</Project>
+      <Name>ShellSortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\İnsertionSortArray\InsertionSortArray.csproj">
+      <Project>{6214d582-cff8-4544-914c-3f8c63f272d1}</Project>
+      <Name>InsertionSortArray</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

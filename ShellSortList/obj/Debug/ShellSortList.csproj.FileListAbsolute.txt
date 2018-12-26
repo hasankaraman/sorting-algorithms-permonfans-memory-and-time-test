@@ -1,0 +1,6 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortList\bin\Debug\ShellSortList.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortList\bin\Debug\ShellSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortList\bin\Debug\ShellSortList.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortList\obj\Debug\ShellSortList.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortList\obj\Debug\ShellSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortList\obj\Debug\ShellSortList.pdb

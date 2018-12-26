@@ -1,0 +1,7 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\bin\Debug\QuickSortArray.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\bin\Debug\QuickSortArray.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\bin\Debug\QuickSortArray.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\obj\Debug\QuickSortArray.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\obj\Debug\QuickSortArray.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\obj\Debug\QuickSortArray.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\QuickSortArray\obj\Debug\QuickSortArray.csprojAssemblyReference.cache

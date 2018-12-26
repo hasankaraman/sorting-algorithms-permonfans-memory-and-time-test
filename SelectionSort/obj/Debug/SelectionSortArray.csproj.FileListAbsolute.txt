@@ -1,0 +1,6 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\SelectionSort\obj\Debug\SelectionSortArray.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\SelectionSort\obj\Debug\SelectionSort.pdb

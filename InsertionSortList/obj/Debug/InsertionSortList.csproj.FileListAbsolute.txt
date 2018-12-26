@@ -1,0 +1,7 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\bin\Debug\InsertionSortList.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\bin\Debug\InsertionSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\bin\Debug\InsertionSortList.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\obj\Debug\InsertionSortList.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\obj\Debug\InsertionSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\obj\Debug\InsertionSortList.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\InsertionSortList\obj\Debug\InsertionSortList.csprojAssemblyReference.cache

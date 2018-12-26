@@ -1,0 +1,6 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\BubbleSortList\bin\Debug\BubbleSortList.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\BubbleSortList\bin\Debug\BubbleSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\BubbleSortList\bin\Debug\BubbleSortList.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\BubbleSortList\obj\Debug\BubbleSortList.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\BubbleSortList\obj\Debug\BubbleSortList.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\BubbleSortList\obj\Debug\BubbleSortList.pdb

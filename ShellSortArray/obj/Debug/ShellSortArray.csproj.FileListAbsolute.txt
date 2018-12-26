@@ -1,0 +1,7 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\bin\Debug\ShellSortArray.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\bin\Debug\ShellSortArray.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\bin\Debug\ShellSortArray.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\obj\Debug\ShellSortArray.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\obj\Debug\ShellSortArray.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\obj\Debug\ShellSortArray.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShellSortArray\obj\Debug\ShellSortArray.csprojAssemblyReference.cache

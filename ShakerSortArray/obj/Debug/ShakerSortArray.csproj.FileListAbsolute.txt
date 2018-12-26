@@ -1,0 +1,7 @@
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\bin\Debug\ShakerSortArray.exe.config
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\bin\Debug\ShakerSortArray.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\bin\Debug\ShakerSortArray.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\obj\Debug\ShakerSortArray.csproj.CoreCompileInputs.cache
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\obj\Debug\ShakerSortArray.exe
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\obj\Debug\ShakerSortArray.pdb
+C:\Users\hasankaraman\source\repos\sortingalgorithms\ShakerSortArray\obj\Debug\ShakerSortArray.csprojAssemblyReference.cache
